@@ -1,2 +1,2 @@
 # home
-Home project
+Silence is golden
